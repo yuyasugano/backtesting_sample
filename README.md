@@ -10,3 +10,6 @@ This is an experimental use of Backtesting.py and provide a few samples of crypt
 2. `Channel-Breakout-with-Backtesting.py.ipynb`
 3. `EMA-Strategy-with-Backtesting.py-heatmap.ipynb`
  
+## License
+ 
+This code is licensed under the MIT License. 

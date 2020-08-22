@@ -9,6 +9,7 @@ This is an experimental use of Backtesting.py and provide a few samples of crypt
 1. `EMA-Strategy-with-Backtesting.py.ipynb`
 2. `Channel-Breakout-with-Backtesting.py.ipynb`
 3. `EMA-Strategy-with-Backtesting.py-heatmap.ipynb`
+4. `Disparity-Strategy-with-Backtesting.py.ipynb`
  
 ## License
  
